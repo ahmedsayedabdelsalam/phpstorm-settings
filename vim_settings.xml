@@ -1,0 +1,293 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>activity</entry>
+        <entry>activities</entry>
+        <entry>fetch</entry>
+        <entry>timeline</entry>
+        <entry>itin</entry>
+        <entry>tour.excursion</entry>
+        <entry>timeline_hr</entry>
+        <entry>style</entry>
+        <entry>options</entry>
+        <entry>show</entry>
+        <entry>cancel policy</entry>
+        <entry>authenticated</entry>
+        <entry>lang</entry>
+        <entry>fcm</entry>
+        <entry>assign</entry>
+        <entry>excursion</entry>
+        <entry>morph</entry>
+        <entry>within</entry>
+        <entry>offers</entry>
+        <entry>store</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/this/that/g</entry>
+        <entry>%s/This/that/g</entry>
+        <entry>%s/this/that</entry>
+        <entry>w</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/support_agents [tag@localhost]" timestamp="1589464949609">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tag.support_agents" timestamp="1589464949632">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/routes/supplier.php" timestamp="1589474688743" />
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Services/Base/BaseSupportAgentService.php" timestamp="1589464053166">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/AccountController.php" timestamp="1589474560860" />
+      <file name="/tickets [tag@localhost]" timestamp="1589466162429">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Repositories/SupportAgentRepository.php" timestamp="1589463563423">
+        <mark key="[" line="35" column="40" />
+        <mark key="]" line="35" column="40" />
+        <mark key="." line="35" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/views/admin/ticket/supplier/show.blade.php" timestamp="1589465113177">
+        <mark key="[" line="7" column="101" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/offers/trips/OfferForm.vue" timestamp="1589465887400" />
+      <file name="/tag.tickets" timestamp="1589466162462">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Admin/Ticket/SupplierTicketController.php" timestamp="1589466115180">
+        <mark key="[" line="172" column="56" />
+        <mark key="]" line="30" column="104" />
+        <mark key="." line="30" column="104" />
+        <mark key="^" line="91" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/ticket/AssignTicketModal.vue" timestamp="1589466374593">
+        <mark key="[" line="92" column="65" />
+        <mark key="]" line="92" column="65" />
+        <mark key="." line="92" column="65" />
+        <mark key="^" line="34" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Services/Base/BaseMessageService.php" timestamp="1589464049577" />
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Repositories/TourRepository.php" timestamp="1589463168830" />
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/backend/views/ticket/SupplierTickets.vue" timestamp="1589465433946">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/app/SupportAgent.php" timestamp="1589464494219">
+        <mark key="[" line="67" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/ticket/TicketsContainer.vue" timestamp="1589466500354">
+        <mark key="]" line="102" column="4" />
+        <mark key="." line="102" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/support/components/my-ticket/Message.vue" timestamp="1589466359224">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+      </file>
+      <file name="/foo.bar" timestamp="1589466162475">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/views/admin/ticket/supplier/show-delegated.blade.php" timestamp="1589465109879">
+        <mark key="[" line="7" column="142" />
+        <mark key="]" line="7" column="142" />
+        <mark key="." line="7" column="142" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="212" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="207" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="202" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="197" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="187" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="182" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="177" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="172" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="162" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="145" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="34" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="388" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/User.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/ludo/public/js/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/backend/views/passenger/PassengerForm.vue" />
+      <jump line="1" column="35" filename="$USER_HOME$/Documents/www/html/ludo/resources/views/components/alert.blade.php" />
+      <jump line="20" column="15" filename="$USER_HOME$/Documents/www/html/ludo/resources/views/welcome.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/ludo/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/ludo/composer.json" />
+      <jump line="19" column="52" filename="$USER_HOME$/Documents/www/html/ludo/app/Http/Livewire/SearchUsers.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Excursion.php" />
+      <jump line="52" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Repositories/TourRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/requests/tours/Tour.vue" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/Tour/RequestController.php" />
+      <jump line="27" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/Tour/RequestController.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Admin/Tour/RequestController.php" />
+      <jump line="12" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/SupplierApi/Tour/RequestController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/requests/trips/TripDetails.vue" />
+      <jump line="24" column="45" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="148" column="22" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="312" column="10" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="140" column="11" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="141" column="11" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="305" column="32" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="311" column="18" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="33" column="42" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="57" column="41" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="68" column="38" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="72" column="65" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="79" column="44" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="86" column="54" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="91" column="18" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="94" column="41" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="98" column="32" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="101" column="42" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="109" column="32" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="112" column="42" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="199" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/requests/trips/TripDetails.vue" />
+      <jump line="203" column="74" filename="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/requests/trips/TripDetails.vue" />
+      <jump line="309" column="1" filename="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/requests/trips/TripDetails.vue" />
+      <jump line="284" column="6" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="371" column="1" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="341" column="5" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="350" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="319" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="269" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="267" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="243" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="241" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="235" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="214" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="195" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="193" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="184" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="173" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="171" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="160" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="146" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="151" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="400" column="0" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="273" column="29" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="247" column="4" filename="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/requests/tours/TourDetails.vue" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/Tour/OfferController.php" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/SupplierApi/Tour/OfferController.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Admin/Tour/TourOfferController.php" />
+      <jump line="12" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/Tour/AssignmentController.php" />
+      <jump line="17" column="47" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Resources/Base/BaseChatResource.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Resources/Base/BaseChatResource.php" />
+      <jump line="34" column="25" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/Auth/LoginController.php" />
+      <jump line="6" column="6" filename="$USER_HOME$/Documents/www/html/tag/database/migrations/2020_01_20_110638_create_suppliers_table.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Kernel.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Kernel.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Kernel.php" />
+      <jump line="48" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Kernel.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/html/tag/composer.json" />
+      <jump line="140" column="61" filename="$USER_HOME$/Documents/www/html/tag/app/Providers/EventServiceProvider.php" />
+      <jump line="135" column="9" filename="$USER_HOME$/Documents/www/html/tag/app/Providers/EventServiceProvider.php" />
+      <jump line="142" column="29" filename="$USER_HOME$/Documents/www/html/tag/app/Providers/EventServiceProvider.php" />
+      <jump line="143" column="28" filename="$USER_HOME$/Documents/www/html/tag/app/Providers/EventServiceProvider.php" />
+      <jump line="11" column="42" filename="$USER_HOME$/Documents/www/html/tag/app/Providers/EventServiceProvider.php" />
+      <jump line="44" column="40" filename="$USER_HOME$/Documents/www/html/tag/app/Providers/EventServiceProvider.php" />
+      <jump line="33" column="5" filename="$USER_HOME$/Documents/www/html/tag/database/migrations/2020_04_02_101132_create_tickets_table.php" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Trip.php" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Tour.php" />
+      <jump line="280" column="0" filename="$USER_HOME$/Documents/www/html/tag/app/Trip.php" />
+      <jump line="13" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/GuideAgency.php" />
+      <jump line="11" column="6" filename="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/TicketController.php" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>ticket_id</text>
+      </register>
+      <register name="-" type="4">
+        <text>ticket_id</text>
+      </register>
+      <register name="/" type="4">
+        <text>store</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEdldCBhbGwgb2YgdGhlIHRyaXAncyB0aWNrZXRzLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGlja2V0cygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5tb3JwaE1hbnkoVGlja2V0OjpjbGFzcywgJ3N1YmplY3RhYmxlJyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAkdGhpcy0+c3VwcG9ydF9hZ2VudF9zZXJ2aWNlLT5mZXRjaFJlY29yZHMoCi8vICAgICAgICAgICAgICAgIFsKLy8gICAgICAgICAgICAgICAgICAgICd0eXBlJyA9PiBpbXBsb2RlKCcsJywgW1N1cHBvcnRBZ2VudDo6VFlQRVsnU3VwcGxpZXInXSwgU3VwcG9ydEFnZW50OjpUWVBFWydCb3RoJ11dKQovLyAgICAgICAgICAgICAgICBdCi8vICAgICAgICAgICAgKS0+d2l0aChbJ3VzZXInXSktPmdldCgp</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIGZpZWxkcygpCiAgICB7CiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2ZpZWxkJyA9PiAnbmFtZScsCiAgICAgICAgICAgICAgICAndHlwZScgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiAnTmFtZScKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2ZpZWxkJyA9PiAncG9zdGFsQ29kZV9hZGRyZXNzJywKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAndGV4dCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+ICdQb3N0YWxDb2RlIGFuZCBhZGRyZXNzJwogICAgICAgICAgICBdLAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnZmllbGQnID0+ICd0YXhwYXllcl9pZGVudGlmaWNhdGlvbl9udW1iZXInLAogICAgICAgICAgICAgICAgJ3R5cGUnID0+ICd0ZXh0JywKICAgICAgICAgICAgICAgICdsYWJlbCcgPT4gJ1RheHBheWVyIGlkZW50aWZpY2F0aW9uIG51bWJlcicKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2ZpZWxkJyA9PiAncmVnaXN0cmF0aW9uX251bWJlcicsCiAgICAgICAgICAgICAgICAndHlwZScgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiAnUmVnaXN0cmF0aW9uIG51bWJlcicKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2ZpZWxkJyA9PiAndmF0X2lkZW50aWZpY2F0aW9uX251bWJlcicsCiAgICAgICAgICAgICAgICAndHlwZScgPT4gJ3RleHQnLAogICAgICAgICAgICAgICAgJ2xhYmVsJyA9PiAnVkFUIGlkZW50aWZpY2F0aW9uIG51bWJlcicKICAgICAgICAgICAgXSwKICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgJ2ZpZWxkJyA9PiAnYmlvJywKICAgICAgICAgICAgICAgICd0eXBlJyA9PiAndGV4dCcsCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+ICdCaW8nCiAgICAgICAgICAgIF0KICAgICAgICBdOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBtYXBGb3JTaG93KCRtb2RlbCkKICAgIHsKICAgICAgICByZXR1cm4gYXJyYXlfbWFwKGZ1bmN0aW9uICgkZmllbGQpIHVzZSAoJG1vZGVsKSB7CiAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAndHlwZScgPT4gJGZpZWxkWyd0eXBlJ10sCiAgICAgICAgICAgICAgICAnbGFiZWwnID0+ICRmaWVsZFsnbGFiZWwnXSwKICAgICAgICAgICAgICAgICd2YWx1ZScgPT4gJG1vZGVsLT57JGZpZWxkWydmaWVsZCddfQogICAgICAgICAgICBdOwogICAgICAgIH0sICR0aGlzLT5maWVsZHMoKSk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGNyZWF0ZShSZXF1ZXN0ICRyZXF1ZXN0KQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cmVwb3NpdG9yeS0+Y3JlYXRlKCRyZXF1ZXN0LCBbCiAgICAgICAgICAgICduYW1lJywKICAgICAgICAgICAgJ2JpbycsCiAgICAgICAgICAgICd1c2VyX2lkJywKICAgICAgICAgICAgJ3Bvc3RhbENvZGVfYWRkcmVzcycsCiAgICAgICAgICAgICd0YXhwYXllcl9pZGVudGlmaWNhdGlvbl9udW1iZXInLAogICAgICAgICAgICAncmVnaXN0cmF0aW9uX251bWJlcicsCiAgICAgICAgICAgICd2YXRfaWRlbnRpZmljYXRpb25fbnVtYmVyJywKICAgICAgICAgICAgJ2NpdHlfaWQnLAogICAgICAgIF0sIFsKICAgICAgICAgICAgJ2lzX2FjdGl2ZScgPT4gdHJ1ZQogICAgICAgIF0pOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiB1cGRhdGUoUmVxdWVzdCAkcmVxdWVzdCwgU3VwcGxpZXIgJHN1cHBsaWVyKQogICAgewogICAgICAgIHJldHVybiAkdGhpcy0+cmVwb3NpdG9yeS0+dXBkYXRlKCRyZXF1ZXN0LCAkc3VwcGxpZXIsIFsKICAgICAgICAgICAgJ25hbWUnLAogICAgICAgICAgICAncG9zdGFsQ29kZV9hZGRyZXNzJywKICAgICAgICAgICAgJ3RheHBheWVyX2lkZW50aWZpY2F0aW9uX251bWJlcicsCiAgICAgICAgICAgICdyZWdpc3RyYXRpb25fbnVtYmVyJywKICAgICAgICAgICAgJ3ZhdF9pZGVudGlmaWNhdGlvbl9udW1iZXInLAogICAgICAgICAgICAnY2l0eV9pZCcsCiAgICAgICAgICAgICdiaW8nLAogICAgICAgICAgICAndXNlcl9pZCcKICAgICAgICBdKTsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0UmVsYXRpb25EZXRhaWxzKGFycmF5ICRhZGRpdGlvbmFsQXR0cmlidXRlcyk6IGFycmF5CiAgICB7CiAgICAgICAgcmV0dXJuIGFycmF5X21lcmdlKAogICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAnZmllbGRzJyA9PiAkdGhpcy0+ZmllbGRzKCksCiAgICAgICAgICAgICAgICAnc2hvd191cmwnID0+IGV4cGxvZGUoJy8wJywgcm91dGUoJ2FkbWluLnN1cHBsaWVycy5zaG93JywgMCkpWzBdLAogICAgICAgICAgICAgICAgJ3JlbGF0aW9uX25hbWUnID0+ICdTdXBwbGllcicsCiAgICAgICAgICAgICAgICAnZmV0Y2hfdXJsJyA9PiAiL3N1cHBsaWVycy9qc29uIgogICAgICAgICAgICBdLAogICAgICAgICAgICAkYWRkaXRpb25hbEF0dHJpYnV0ZXMKICAgICAgICApOwogICAgfQogICAgcHVibGljIGZ1bmN0aW9uIGdldFN1cHBsaWVyQnlJZCgkaWQpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5yZXBvc2l0b3J5LT5nZXRTdXBwbGllckJ5SWQoJGlkKTsKICAgIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IHB1YmxpYyBmdW5jdGlvbiB3aXRoKGFycmF5ICRyZWxhdGlvbnMgPSBbXSkKICAgIHsKICAgICAgICByZXR1cm4gJHRoaXMtPnF1ZXJ5LT53aXRoKCRyZWxhdGlvbnMpOwogICAgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>store</last-search>
+      <last-offset />
+      <last-pattern>store</last-pattern>
+      <last-replace>that</last-replace>
+      <last-substitute>this</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
