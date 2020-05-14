@@ -54,39 +54,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/support_agents [tag@localhost]" timestamp="1589464949609">
+      <file name="/Dummy.txt" timestamp="1589489765381">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/tag.support_agents" timestamp="1589464949632">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/html/tag/routes/supplier.php" timestamp="1589474688743" />
-      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Services/Base/BaseSupportAgentService.php" timestamp="1589464053166">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="29" column="27" />
-        <mark key="." line="29" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Supplier/AccountController.php" timestamp="1589474560860" />
       <file name="/tickets [tag@localhost]" timestamp="1589466162429">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Repositories/SupportAgentRepository.php" timestamp="1589463563423">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="40" />
-        <mark key="." line="35" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/html/tag/resources/views/admin/ticket/supplier/show.blade.php" timestamp="1589465113177">
-        <mark key="[" line="7" column="101" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/supplier/components/offers/trips/OfferForm.vue" timestamp="1589465887400" />
-      <file name="/tag.tickets" timestamp="1589466162462">
+      <file name="/support_agents [tag@localhost]" timestamp="1589464949609">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Admin/Ticket/SupplierTicketController.php" timestamp="1589466115180">
-        <mark key="[" line="172" column="56" />
-        <mark key="]" line="30" column="104" />
-        <mark key="." line="30" column="104" />
-        <mark key="^" line="91" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/www/html/tag/resources/js/backend/components/ticket/AssignTicketModal.vue" timestamp="1589466374593">
         <mark key="[" line="92" column="65" />
@@ -94,13 +69,8 @@
         <mark key="." line="92" column="65" />
         <mark key="^" line="34" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Services/Base/BaseMessageService.php" timestamp="1589464049577" />
-      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Repositories/TourRepository.php" timestamp="1589463168830" />
-      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/backend/views/ticket/SupplierTickets.vue" timestamp="1589465433946">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/views/admin/ticket/supplier/show.blade.php" timestamp="1589465113177">
+        <mark key="[" line="7" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/www/html/tag/app/SupportAgent.php" timestamp="1589464494219">
         <mark key="[" line="67" column="5" />
@@ -114,13 +84,39 @@
         <mark key="]" line="31" column="38" />
         <mark key="." line="31" column="38" />
       </file>
+      <file name="/" timestamp="1589489724553">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tag.support_agents" timestamp="1589464949632">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/tag.tickets" timestamp="1589466162462">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/foo.bar" timestamp="1589466162475">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Services/Base/BaseSupportAgentService.php" timestamp="1589464053166">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/www/html/tag/resources/views/admin/ticket/supplier/show-delegated.blade.php" timestamp="1589465109879">
         <mark key="[" line="7" column="142" />
         <mark key="]" line="7" column="142" />
         <mark key="." line="7" column="142" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/resources/js/backend/views/ticket/SupplierTickets.vue" timestamp="1589465433946">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="7" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/html/tag/app/Http/Controllers/Admin/Ticket/SupplierTicketController.php" timestamp="1589466115180">
+        <mark key="[" line="172" column="56" />
+        <mark key="]" line="30" column="104" />
+        <mark key="." line="30" column="104" />
+        <mark key="^" line="91" column="19" />
       </file>
     </filemarks>
     <jumps>
