@@ -1,5 +1,27 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CloseProject">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="GotoAction">
-    <keyboard-shortcut first-keystroke="alt a" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+  <action id="OpenTinkerConsoleAction">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="nl.deschepers.laraveltinker.action.SmartAction">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="osmedile.intellij.stringmanip.RepeatAction">
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
 </keymap>

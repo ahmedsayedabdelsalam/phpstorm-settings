@@ -1,0 +1,16 @@
+AceJump
+IdeaVIM
+String Manipulation
+com.intellij.ideolog
+com.intellij.plugins.vscodekeymap
+com.kalessil.phpStorm.phpInspectionsEA
+com.magento.idea.magento2plugin
+com.mallowigi
+com.xiaobing1024.laravel
+com.your.company.unique.plugin.id
+de.espend.idea.laravel
+de.espend.idea.php.annotation
+nl.deschepers.laraveltinker
+org.jetbrains.IdeaVim-EasyMotion
+ru.adelf.idea.dotenv
+zielu.gittoolbox

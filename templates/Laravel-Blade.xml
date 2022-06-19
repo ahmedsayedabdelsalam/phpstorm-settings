@@ -1,0 +1,14 @@
+<templateSet group="Laravel-Blade">
+  <template name="/start" value="&lt;!-- Start $END$ --&gt;" description="start comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="/end" value="&lt;!-- End $END$ --&gt;" description="end comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

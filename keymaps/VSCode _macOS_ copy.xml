@@ -1,0 +1,34 @@
+<keymap version="1" name="VSCode (macOS) copy" parent="VSCode OSX">
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="Console.TableResult.Submit">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f12" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="Force touch" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="Vcs.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+</keymap>

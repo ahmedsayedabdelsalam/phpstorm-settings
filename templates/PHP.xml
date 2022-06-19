@@ -1,0 +1,75 @@
+<templateSet group="PHP">
+  <template name="test" value="/** @test */&#10;function $NAME$(){&#10;    $END$&#10;}" description="generate test function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="scope" value="public function scope$NAME$($PARAMETERS$)&#10;{&#10;    $END$&#10;}" description="laravel model scope" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="belongsto" value="public function $NAME$(){&#10;    return $this-&gt;belongsTo($CLASS_NAME$::class);&#10;}" description="laravel belongs to relationship" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="camelCase(CLASS_NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="accessor" value="public function get$NAME$Attribute(){&#10;    return $this-&gt;$END$;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="querylog" value="\DB::enableQueryLog();&#10;$SELECTION$&#10;\Log::info('query-log', [\DB::getQueryLog()]);" description="laravel log queries" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="querycount" value="\DB::enableQueryLog();&#10;$SELECTION$&#10;\Log::info('query-log', [count(\DB::getQueryLog())]);" description="laravel log queries count" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="log" value="\Log::info('debug', [$SELECTION$]);" description="laravel log" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+  <template name="hasmany" value="public function $NAME$s(){&#10;    return $this-&gt;hasMany($CLASS_NAME$::class);&#10;}" description="laravel has many relationship" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="camelCase(CLASS_NAME)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
+      <option name="PHP Trait Member" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="//@TODO: " description="php todo" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="trycatch" value="try {&#10;    $1$&#10;} catch (\Exception $exception) {&#10;    $2$&#10;}" description="try catch expression" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="routetest" value="Route::get('test', function () {&#10;    $1$&#10;});" description="test route" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+</templateSet>

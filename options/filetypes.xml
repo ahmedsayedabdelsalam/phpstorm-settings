@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="PqfMYF2dmGoOYVwMmFvorjgkX2vCiyHqE3ehBg5w" type="AUTO_DETECTED" />
+      <mapping pattern="SAiRgVRhvkghHDWpe0kGu2eGCgGTbyY7TpxQzMLQ" type="AUTO_DETECTED" />
+      <mapping pattern="sGAc6fioGbnuzboNb1FJFYsOaSea17fEJZyW2AwL" type="AUTO_DETECTED" />
+      <mapping pattern="X99w4HU4957qK2QQRGFnKvLZTK7nGPJWwwbBx97e" type="AUTO_DETECTED" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
+    </extensionMap>
+  </component>
+</application>
